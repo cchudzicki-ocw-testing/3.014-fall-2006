@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section summarizes the structure and goals of the class labs, and
+  presents the background notes for most experiments.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
